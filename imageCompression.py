@@ -103,3 +103,6 @@ compression_box.current(0)
 compression_box.grid(row=1,column=1)
 
 win.mainloop()
+
+
+# Need some changes here 
